@@ -73,7 +73,4 @@ um histórico de medições e calcula a média das últimas 10 leituras.
 ---
 
 ## 4. Conclusão  
-Este projeto fornece uma solução funcional para monitoramento de temperatura com um microcontrolador  
-RP2040, utilizando o sensor interno. A exibição em um display OLED e o acionamento de LEDs permitem  
-uma interface intuitiva e eficiente para o usuário. Com possíveis expansões, o sistema pode ser utilizado em aplicações como monitoramento ambiental  
-e controle térmico de equipamentos.  
+Este projeto fornece uma solução funcional para monitoramento de temperatura com um microcontrolador RP2040, utilizando o sensor interno. A exibição em um display OLED e o acionamento de LEDs permitem uma interface intuitiva e eficiente para o usuário. Com possíveis expansões, o sistema pode ser utilizado em aplicações como monitoramento ambiental e controle térmico de equipamentos.  
